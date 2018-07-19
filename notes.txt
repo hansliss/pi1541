@@ -1,0 +1,7 @@
+C1: https://www.elfa.se/en/capacitor-uf-16-0603-kemet-c0603x104k4ractu/p/30111165
+Q1, Q2, Q3, Q4: https://www.elfa.se/en/mosfet-60-36-350-mw-sot-23-nxp-bss138p/p/30032521
+R1: https://www.elfa.se/en/smd-resistor-metal-thin-film-100-ohm-panasonic-industry-europe-era3aeb101v/p/16015639
+R2, R3: https://www.elfa.se/en/smd-resistor-metal-thin-film-kohm-panasonic-industry-europe-era3aeb102v/p/16015663
+RN1, RN2: https://www.elfa.se/en/fixed-resistor-network-10-kohm-bourns-cat25-103jalf/p/30037082
+D1: https://www.elfa.se/en/smd-led-0603-78-mw-blue-465-nm-wuerth-elektronik-150060bs55040/p/30114009 
+U1: https://www.elfa.se/en/logic-ic-so-14-sn74lvc06-texas-instruments-sn74lvc06ad/p/30023143

@@ -322,7 +322,7 @@ U 1 1 5B3E8CF4
 P 8600 2700
 F 0 "J2" H 8600 3000 50  0000 C CNN
 F 1 "DIN" H 8600 2300 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm" H 8600 2700 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" H 8600 2700 50  0001 C CNN
 F 3 "" H 8600 2700 50  0001 C CNN
 	1    8600 2700
 	1    0    0    -1  

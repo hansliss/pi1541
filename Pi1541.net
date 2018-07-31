@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "K:/Hans Liss/Documents/KiCad/Pi1541/Pi1541.sch")
-    (date "2018-07-29 11:05:23")
+    (date "2018-07-31 14:01:01")
     (tool "Eeschema 4.0.7")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -65,7 +65,7 @@
       (tstamp 5B3E8C54))
     (comp (ref J2)
       (value DIN)
-      (footprint Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm)
+      (footprint Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm)
       (libsource (lib conn) (part Conn_01x06))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B3E8CF4))
